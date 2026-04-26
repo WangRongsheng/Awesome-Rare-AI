@@ -3,6 +3,7 @@
 ## Benchmark
 
 - [*12 Apr 2026*] [《MMRareBench: A Rare-Disease Multimodal and Multi-Image Medical Benchmark》](https://arxiv.org/abs/2604.10755)
+- [*15 Aug 2024*] [《ReDis-QA: Assessing and Enhancing Large Language Models in Rare Disease Question-answering》](https://arxiv.org/abs/2408.08422)
 - [*9 Feb 2024*] [《RareBench: Can LLMs Serve as Rare Diseases Specialists?》](https://arxiv.org/abs/2402.06341)
 
 ## Method
