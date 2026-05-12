@@ -12,3 +12,4 @@
 - [*18 Nov 2025*] [《RareSeek-R1: A Specialized Large Language Model for Clinical Reasoning and Diagnosis in Rare Diseases》](https://arxiv.org/abs/2511.14638)
 - [*25 Jun 2025*] [《DeepRare: An Agentic System for Rare Disease Diagnosis with Traceable Reasoning》](https://arxiv.org/abs/2506.20430)
 - [*17 Dec 2024*] [《RareAgents: Autonomous Multi-disciplinary Team for Rare Disease Diagnosis and Treatment》](https://arxiv.org/abs/2412.12475)
+- [*3 Mar 2025*] [《Multimodal Distillation-Driven Ensemble Learning for Long-Tailed Histopathology Whole Slide Images Analysis》](https://arxiv.org/abs/2503.00915)
