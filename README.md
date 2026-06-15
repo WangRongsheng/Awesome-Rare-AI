@@ -8,6 +8,7 @@
 
 ## Method
 
+- [*21 May 2026*] [《Synthetic Data Alone is Enough? Rethinking Data Scarcity in Pediatric Rare Disease Recognition》](https://arxiv.org/abs/2605.22767)
 - [*26 Jan 2026*] [《RareAlert: Aligning heterogeneous large language model reasoning for early rare disease risk screening》](https://arxiv.org/abs/2601.18132)
 - [*18 Nov 2025*] [《RareSeek-R1: A Specialized Large Language Model for Clinical Reasoning and Diagnosis in Rare Diseases》](https://arxiv.org/abs/2511.14638)
 - [*25 Jun 2025*] [《DeepRare: An Agentic System for Rare Disease Diagnosis with Traceable Reasoning》](https://arxiv.org/abs/2506.20430)
