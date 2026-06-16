@@ -14,3 +14,4 @@
 - [*16 Oct 2025*] [《RareAgent: Self-Evolving Reasoning for Drug Repurposing in Rare Diseases》](https://arxiv.org/abs/2510.05764)
 - [*25 Jun 2025*] [《DeepRare: An Agentic System for Rare Disease Diagnosis with Traceable Reasoning》](https://arxiv.org/abs/2506.20430)
 - [*17 Dec 2024*] [《RareAgents: Autonomous Multi-disciplinary Team for Rare Disease Diagnosis and Treatment》](https://arxiv.org/abs/2412.12475)
+- [*3 Mar 2025*] [《Multimodal Distillation-Driven Ensemble Learning for Long-Tailed Histopathology Whole Slide Images Analysis》](https://arxiv.org/abs/2503.00915)
