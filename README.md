@@ -8,6 +8,7 @@
 
 ## Method
 
+- [*02 July 2026*] [《KGRD: a knowledge-graph-augmented automated reasoning framework for diagnosis and counselling of paediatric rare genetic disorders》](https://www.nature.com/articles/s41746-026-02943-5)
 - [*21 May 2026*] [《Synthetic Data Alone is Enough? Rethinking Data Scarcity in Pediatric Rare Disease Recognition》](https://arxiv.org/abs/2605.22767)
 - [*19 May 2026*] [《Interpretable fine-tuned large language models facilitate making genetic test decisions for rare diseases》](https://www.nature.com/articles/s41746-026-02733-z)
 - [*26 Jan 2026*] [《RareAlert: Aligning heterogeneous large language model reasoning for early rare disease risk screening》](https://arxiv.org/abs/2601.18132)
@@ -15,6 +16,7 @@
 - [*16 Oct 2025*] [《RareAgent: Self-Evolving Reasoning for Drug Repurposing in Rare Diseases》](https://arxiv.org/abs/2510.05764)
 - [*25 Jun 2025*] [《DeepRare: An Agentic System for Rare Disease Diagnosis with Traceable Reasoning》](https://arxiv.org/abs/2506.20430)
 - [*17 Dec 2024*] [《RareAgents: Autonomous Multi-disciplinary Team for Rare Disease Diagnosis and Treatment》](https://arxiv.org/abs/2412.12475)
+- [*24 August 2025*] [《Graph retrieval augmented large language models for facial phenotype associated rare genetic disease》](https://www.nature.com/articles/s41746-025-01955-x)
 
 ## Projects
 
