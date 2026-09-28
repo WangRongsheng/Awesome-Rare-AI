@@ -9,6 +9,7 @@
 ## Method
 
 - [*25 Jul 2026*] [《RareLens: Towards End-to-End Rare Disease Care via Aligning Divergent Large Language Model Reasoning》](https://arxiv.org/abs/2607.23290)
+- [*13 May 2026*] [《RDMA: Cost Effective Agent-Driven Rare Disease Mining from Electronic Health Records》](https://arxiv.org/abs/2507.15867)
 - [*02 Jul 2026*] [《KGRD: a knowledge-graph-augmented automated reasoning framework for diagnosis and counselling of paediatric rare genetic disorders》](https://www.nature.com/articles/s41746-026-02943-5)
 - [*21 May 2026*] [《Synthetic Data Alone is Enough? Rethinking Data Scarcity in Pediatric Rare Disease Recognition》](https://arxiv.org/abs/2605.22767)
 - [*19 May 2026*] [《Interpretable fine-tuned large language models facilitate making genetic test decisions for rare diseases》](https://www.nature.com/articles/s41746-026-02733-z)
