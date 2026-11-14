@@ -2,6 +2,7 @@
 
 ## Benchmark
 
+- [*21 Sept 2026*] [RareDiseaseBench](https://github.com/latchbio/rarediseasebench)
 - [*14 Oct 2026*] [Gamow Labs Benchmarks](https://gamowlabs.com/benchmarks)
 - [*12 Apr 2026*] [《MMRareBench: A Rare-Disease Multimodal and Multi-Image Medical Benchmark》](https://arxiv.org/abs/2604.10755)
 - [*15 Aug 2024*] [《ReDis-QA: Assessing and Enhancing Large Language Models in Rare Disease Question-answering》](https://arxiv.org/abs/2408.08422)
